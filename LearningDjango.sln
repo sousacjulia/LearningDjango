@@ -5,6 +5,8 @@ VisualStudioVersion = 17.2.32519.379
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "BasicProject", "BasicProject\BasicProject.pyproj", "{CAB6D2FF-3A6C-4AE8-86B7-44A138611A50}"
 EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "DjangoWeb", "DjangoWeb\DjangoWeb.pyproj", "{235BBA2B-00AE-4DA5-BF15-BEA874124CDC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{CAB6D2FF-3A6C-4AE8-86B7-44A138611A50}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CAB6D2FF-3A6C-4AE8-86B7-44A138611A50}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CAB6D2FF-3A6C-4AE8-86B7-44A138611A50}.Release|Any CPU.Build.0 = Release|Any CPU
+		{235BBA2B-00AE-4DA5-BF15-BEA874124CDC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{235BBA2B-00AE-4DA5-BF15-BEA874124CDC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{235BBA2B-00AE-4DA5-BF15-BEA874124CDC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{235BBA2B-00AE-4DA5-BF15-BEA874124CDC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
